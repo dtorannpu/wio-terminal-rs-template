@@ -14,5 +14,5 @@ $ cargo install cargo-hf2
 
 ## Usage
 ```
-$ cargo generate --git https'//github.com/dtorannpu/wio-terminal-rs-template
+$ cargo generate --git https://github.com/dtorannpu/wio-terminal-rs-template
 ```
