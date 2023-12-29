@@ -1,5 +1,6 @@
 [package]
-name = "wio-terminal-rs-template"
+authors = ["{{authors}}"]
+name = "{{project-name}}"
 version = "0.1.0"
 edition = "2021"
 
